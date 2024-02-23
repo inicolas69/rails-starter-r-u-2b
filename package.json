@@ -1,0 +1,44 @@
+{
+  "name": "r-u-2b-rails-starter-pack",
+  "displayName": "R u 2B ? 🤷🏻‍♂️ Rails starter pack",
+  "publisher": "NicolasIniesta",
+  "description": "Rails starter pack",
+  "icon": "icon.png",
+  "version": "0.0.3",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "aki77.rails-db-schema",
+    "aliariff.vscode-erb-beautify",
+    "bradlc.vscode-tailwindcss",
+    "castwide.solargraph",
+    "christian-kohler.path-intellisense",
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "formulahendry.auto-rename-tag",
+    "foxundermoon.shell-format",
+    "github.copilot",
+    "github.copilot-chat",
+    "github.copilot-labs",
+    "heybourn.headwind",
+    "jnbt.vscode-rufo",
+    "kaiwood.endwise",
+    "mechatroner.rainbow-csv",
+    "mikestead.dotenv",
+    "ms-vsliveshare.vsliveshare",
+    "pkief.material-icon-theme",
+    "redhat.vscode-xml",
+    "rubocop.vscode-rubocop",
+    "shopify.ruby-lsp",
+    "sibiraj-s.vscode-scss-formatter",
+    "testdouble.vscode-standard-ruby",
+    "vortizhe.simple-ruby-erb",
+    "wakatime.vscode-wakatime",
+    "zneuray.erb-vscode-snippets",
+    "zoxon.monokai-light"
+  ]
+}
