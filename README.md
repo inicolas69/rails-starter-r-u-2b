@@ -1,18 +1,42 @@
-# rails-starter-r-u-2b README
+# R u 2B ? 🤷🏻‍♂️ Rails starter pack README
 
-## Working with Markdown
+### Installation
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+1. Install the following gems globally so they're available for their respective extension —
 
-- Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-- Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-- Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+```sh
+gem install solargraph rufo ruby-lsp-rails
+```
 
-## For more information
+- [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [endwise](https://marketplace.visualstudio.com/items?itemName=kaiwood.endwise)
+- [ERB Formatter/Beautify](https://marketplace.visualstudio.com/items?itemName=aliariff.vscode-erb-beautify)
+- [ERB-VSCode-Snippets](https://marketplace.visualstudio.com/items?itemName=ZneuRay.erb-vscode-snippets)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [RuboCop](https://marketplace.visualstudio.com/items?itemName=rubocop.vscode-rubocop)
+- [Ruby LSP](https://marketplace.visualstudio.com/items?itemName=Shopify.ruby-lsp)
+- [Ruby Solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
+- [Rufo - Ruby formatter](https://marketplace.visualstudio.com/items?itemName=jnbt.vscode-rufo)
+- [Simple Ruby ERB](https://marketplace.visualstudio.com/items?itemName=vortizhe.simple-ruby-erb)
+- [Standard Ruby](https://marketplace.visualstudio.com/items?itemName=testdouble.vscode-standard-ruby)
 
-- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [GitHub Copilot Chat](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat)
+- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
+- [WakaTime](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime)
+- [Rails DB Schema](https://marketplace.visualstudio.com/items?itemName=aki77.rails-db-schema)
 
-`gem install solargraph rufo ruby-lsp-rails standardrb`
+- [Headwind](https://marketplace.visualstudio.com/items?itemName=heybourn.headwind)
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+- [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
+- [SCSS Formatter](https://marketplace.visualstudio.com/items?itemName=sibiraj-s.vscode-scss-formatter)
+- [shell-format](https://marketplace.visualstudio.com/items?itemName=foxundermoon.shell-format)
+- [DotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+- [XML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-xml)
 
-**Enjoy!**
+- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Monokai Light](https://marketplace.visualstudio.com/items?itemName=zoxon.monokai-light)
+
+  **Enjoy!**
